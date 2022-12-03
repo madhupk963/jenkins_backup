@@ -16,9 +16,9 @@
       <timestamp0>1669947882831</timestamp0>
     </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
     <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
-      <timestamp>1670036441314</timestamp>
+      <timestamp>1670041121302</timestamp>
       <nodeName>slaveone</nodeName>
-      <timestamp0>1670034941273</timestamp0>
+      <timestamp0>1670039561271</timestamp0>
     </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
   </facets>
 </fingerprint>

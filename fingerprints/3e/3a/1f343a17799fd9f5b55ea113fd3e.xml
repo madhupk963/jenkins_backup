@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-11-27 14:19:22.555 UTC</timestamp>
+  <md5sum>3e3a1f343a17799fd9f5b55ea113fd3e</md5sum>
+  <fileName>Credential id=a2cde303-7353-4201-8d95-eca245d9da65 name=slaveone/******</fileName>
+  <usages>
+    <entry>
+      <string>slavejob</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1669948076371</timestamp>
+      <itemFullName>actualbuiddeploy</itemFullName>
+      <timestamp0>1669947882831</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670036441314</timestamp>
+      <nodeName>slaveone</nodeName>
+      <timestamp0>1670034941273</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

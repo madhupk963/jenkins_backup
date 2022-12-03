@@ -1,0 +1,116 @@
+Started by user [8mha:////4CPNGGtldsJLs3jrwR60Vh4MEbVn1XxhdyhRUNuGrQ1xAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL93MSUjNLi0pSMxDwA13SCSsYAAAA=[0mMadhusudhan
+Obtained Jenkinsjfrog from git https://github.com/madhupk963/build_demo.git
+[8mha:////4BrpKdnlruZG8ilUuzSBMZv7tVuPcgxtMOF+DI2We9V5AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4CLvwOAPKWw8coJyJAapqdYzFnbwlnZKZdY8kgbjE16vAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] stage
+[8mha:////4GWIHltkkFxe2ZuqgOEDd4RK62MMrj+ADdE/CdHOxYG0AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] { (build)
+[8mha:////4NHwSPA+Dnb0nVbA5eZPNp8zqMf7NOuBRz9T1lgAUbk3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] node
+Running on [8mha:////4AwDsbYavNyujFxXBM51VsIE8qupiggrGm6H75bwfxYQAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZh/eT83ILSktQi/eKcxLLU/LxUfQA9CndCyAAAAA==[0mslaveone in /home/slaveone/workspace/jfrogdeploy
+[8mha:////4PD1Vcjqy5CP0xSxqiYNShO4yQEXOzFVVnyZJlG6X5bVAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4OwDWhmtXVIo2Yf5vVARsEoq2oBAvvnR8RUyVtK55cNFAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Fetching changes from the remote Git repository
+ > git rev-parse --resolve-git-dir /home/slaveone/workspace/jfrogdeploy/.git # timeout=10
+ > git config remote.origin.url https://github.com/madhupk963/build_demo.git # timeout=10
+Fetching upstream changes from https://github.com/madhupk963/build_demo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/madhupk963/build_demo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking out Revision 466f4bd46964125a8ee7f6478658168685b204c7 (refs/remotes/origin/main)
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 466f4bd46964125a8ee7f6478658168685b204c7 # timeout=10
+Commit message: "Update Jenkinsjfrog"
+ > git rev-list --no-walk 6be07a56111cd4833da0e40301c9cc4e22ba04c3 # timeout=10
+[8mha:////4L0lUJMEw5FlU2626Z8y03cApZzeaZWf9Piuq57+438zAAAApR+LCAAAAAAAAP9tjUEKwjAURH8qXbh16SHSnQjiym3IxhPEJMa04f82SW1XnsireQejBVcODMwMDO/5gjpFOFJ0vLXYeUza8z6MriQ+UeyugSbe0oVrwkTBcmknScaeliopW1jEKlgJWFvUgZJHl2EjWnVXTVDomnOOZTsIqLwZ4AFMFHJWMX/LHGF7G00i/HH+AmDuM7Bd8f7zq9/XNDXAwAAAAA==[0m[Pipeline] withEnv
+[8mha:////4NyTLjuglh9R3wtSmIRmBWSnGNYD5SLqDu+SbqpT/zchAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BSEm1igLJwhJCGmj/9skpZ04EVfjDgQqMWHJkm3Jes8X1CnCkaLjrcXOY9Ke92F0JfGJYncNNPGWLlwTJgqWSztJMva0VEnZwiJWwUrA2qIOlDy6DBvRqrtqgkLXnHMs20FA5c0AD2CikLOK+VvmCNvbaBLhj/MXAHOfge2K959f/QbB16AVwAAAAA==[0m[Pipeline] {
+[8mha:////4N8SqUXGIQF4qqFP5zJDlUwMu3NYHHGQsWtlaoI5uwVyAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBEiEqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBjJ8j2gny37T6VOYoyvQAAAA==[0m[Pipeline] sh
++ pwd
+/home/slaveone/workspace/jfrogdeploy
+[8mha:////4PjIWzzrMnx5HUUtLcZJRswiChZBWxk1eRVZSGH//uz2AAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6KE0Rgn14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmXpDtBXlZ9h/UCJErvQAAAA==[0m[Pipeline] sh
++ echo 13
+13
+[8mha:////4NIkujM8TAtdzXTeHwt/BTFVIbS2ZdRZc4X1TdTJPlx8AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRdAhR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYO0G2F+TbXfcBF1u8AL0AAAA=[0m[Pipeline] sh
++ mvn deploy
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for com.efsavage:build-demo:war:13
+[[1;33mWARNING[m] 'version' contains an expression but should be a constant. @ com.efsavage:build-demo:${BUILD_NUMBER}, /home/slaveone/workspace/jfrogdeploy/pom.xml, line 6, column 11
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------------< [0;36mcom.efsavage:build-demo[0;1m >-----------------------[m
+[[1;34mINFO[m] [1mBuilding Hello World Web Application Repository 13[m
+[[1;34mINFO[m] [1m--------------------------------[ war ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mbuild-demo[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /home/slaveone/workspace/jfrogdeploy/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mbuild-demo[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mbuild-demo[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /home/slaveone/workspace/jfrogdeploy/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mbuild-demo[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.12.4:test[m [1m(default-test)[m @ [36mbuild-demo[0;1m ---[m
+[[1;34mINFO[m] No tests to run.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-war-plugin:2.1.1:war[m [1m(default-war)[m @ [36mbuild-demo[0;1m ---[m
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.thoughtworks.xstream.core.util.Fields (file:/home/slaveone/.m2/repository/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar) to field java.util.Properties.defaults
+WARNING: Please consider reporting this to the maintainers of com.thoughtworks.xstream.core.util.Fields
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[[1;34mINFO[m] Packaging webapp
+[[1;34mINFO[m] Assembling webapp [build-demo] in [/home/slaveone/workspace/jfrogdeploy/target/build-demo-13]
+[[1;34mINFO[m] Processing war project
+[[1;34mINFO[m] Copying webapp resources [/home/slaveone/workspace/jfrogdeploy/src/main/webapp]
+[[1;34mINFO[m] Webapp assembled in [961 msecs]
+[[1;34mINFO[m] Building war: /home/slaveone/workspace/jfrogdeploy/target/build-demo-13.war
+[[1;34mINFO[m] WEB-INF/web.xml already added, skipping
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-install-plugin:2.4:install[m [1m(default-install)[m @ [36mbuild-demo[0;1m ---[m
+[[1;34mINFO[m] Installing /home/slaveone/workspace/jfrogdeploy/target/build-demo-13.war to /home/slaveone/.m2/repository/com/efsavage/build-demo/13/build-demo-13.war
+[[1;34mINFO[m] Installing /home/slaveone/workspace/jfrogdeploy/pom.xml to /home/slaveone/.m2/repository/com/efsavage/build-demo/13/build-demo-13.pom
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-deploy-plugin:2.7:deploy[m [1m(default-deploy)[m @ [36mbuild-demo[0;1m ---[m
+Uploading to central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/13/build-demo-13.war
+Progress (1): 4.1/255 kBProgress (1): 8.2/255 kBProgress (1): 12/255 kB Progress (1): 16/255 kBProgress (1): 20/255 kBProgress (1): 25/255 kBProgress (1): 29/255 kBProgress (1): 33/255 kBProgress (1): 37/255 kBProgress (1): 41/255 kBProgress (1): 45/255 kBProgress (1): 49/255 kBProgress (1): 53/255 kBProgress (1): 57/255 kBProgress (1): 61/255 kBProgress (1): 66/255 kBProgress (1): 70/255 kBProgress (1): 74/255 kBProgress (1): 78/255 kBProgress (1): 82/255 kBProgress (1): 86/255 kBProgress (1): 90/255 kBProgress (1): 94/255 kBProgress (1): 98/255 kBProgress (1): 102/255 kBProgress (1): 106/255 kBProgress (1): 111/255 kBProgress (1): 115/255 kBProgress (1): 119/255 kBProgress (1): 123/255 kBProgress (1): 127/255 kBProgress (1): 131/255 kBProgress (1): 135/255 kBProgress (1): 139/255 kBProgress (1): 143/255 kBProgress (1): 147/255 kBProgress (1): 152/255 kBProgress (1): 156/255 kBProgress (1): 160/255 kBProgress (1): 164/255 kBProgress (1): 168/255 kBProgress (1): 172/255 kBProgress (1): 176/255 kBProgress (1): 180/255 kBProgress (1): 184/255 kBProgress (1): 188/255 kBProgress (1): 193/255 kBProgress (1): 197/255 kBProgress (1): 201/255 kBProgress (1): 205/255 kBProgress (1): 209/255 kBProgress (1): 213/255 kBProgress (1): 217/255 kBProgress (1): 221/255 kBProgress (1): 225/255 kBProgress (1): 229/255 kBProgress (1): 233/255 kBProgress (1): 238/255 kBProgress (1): 242/255 kBProgress (1): 246/255 kBProgress (1): 250/255 kBProgress (1): 254/255 kBProgress (1): 255 kB                        Uploaded to central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/13/build-demo-13.war (255 kB at 16 kB/s)
+Uploading to central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/13/build-demo-13.pom
+Progress (1): 1.3 kB                    Uploaded to central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/13/build-demo-13.pom (1.3 kB at 2.1 kB/s)
+Downloading from central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/maven-metadata.xml
+Progress (1): 588 B                   Downloaded from central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/maven-metadata.xml (588 B at 737 B/s)
+Uploading to central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/maven-metadata.xml
+Progress (1): 543 B                   Uploaded to central: https://madhusudhan.jfrog.io/artifactory/libs-release-local/com/efsavage/build-demo/maven-metadata.xml (543 B at 751 B/s)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  01:42 min
+[[1;34mINFO[m] Finished at: 2022-12-02T08:11:53Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4PVwy0lhtth5jOAph7zrOWDvn9hV9ul+e/U/m4HUESvTAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRokKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2AmyvSDf7roPVmqnGb0AAAA=[0m[Pipeline] sh
++ scp -r build_demo/target/build_demo-13.war root@172.31.2.54:/opt/tomcat/webapps
+build_demo/target/build_demo-13.war: No such file or directory
+[8mha:////4KWFEcO631uYS/4rHuhWxdtX4L2/ishYdJxAexiqIMc+AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREg1CVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5NudINt/APjxdFm9AAAA[0m[Pipeline] }
+[8mha:////4GGymioZBdve0XRtHBINysSU8JBUENEfA6/28UzsgnonAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBRISoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBNn+A97oExO9AAAA[0m[Pipeline] // withEnv
+[8mha:////4KQ5CChr6FCPDdAFhg5Ot/mzfR8mth6gD4DaP0QUAfkRAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiKMDY1jZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwACb8Ls70AAAA=[0m[Pipeline] }
+[8mha:////4NFgw7TAf7bXvQT44BSxH/QtS70ChXzqYBHns5/7hBsIAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBaJAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AAPHYhe9AAAA[0m[Pipeline] // node
+[8mha:////4Dt1XiRPq5ydCL+rxMK/JLhIjWJGdgXBfrv2qL/qQYRuAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREgUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBdnuA0RgNeK9AAAA[0m[Pipeline] }
+[8mha:////4CmNGSohSHyDkTz9mcuYtTD2/+m6DkvGUJ9NYtZIIP3eAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRokKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPV9wxQb0AAAA=[0m[Pipeline] // stage
+[8mha:////4O1pR1PeRiF+huUidl19XX4Xyu6goOt0Txzqlx9vc8QaAAAApR+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSD0iIqWssNLzCJMU6su2BfSCpexNf4A4ZIVGy1s9Jqni8oU4QDRSc7i73H1Hg5hNHlJieK/SXQJDs6y4YwUbBS20lTa48LamILS0QBKwVri02g5NExbFRn7qYKBl114pi3vYLCtzd4gFDZzCbyF+YI2+vYJsKf568A5oFB1AxFvfscyzdoNHeIwQAAAA==[0m[Pipeline] stage
+[8mha:////4JRDwOoo13JzQs4Qpg8FZt62SUHtSLLdCIdEE84hEt6WAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] { (deploy)
+Stage "deploy" skipped due to earlier failure(s)
+[8mha:////4DPWQMMxY7WA3kJH/U/w3VShhGMp8neqnKLfv+rI1HbhAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJu8TlHX9qf0ben/gNr4AAAA=[0m[Pipeline] }
+[8mha:////4AgAzG0F/iZWVoUQudMFAEVEtPBotTTKb2hWq6R7mlMrAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFkKHf7T23fSZy7ir4AAAA=[0m[Pipeline] // stage
+[8mha:////4A/4s/U7MdnxVteWdbK9EGeDvUhRsjevS4nifd3in96jAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkxM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwA3loySL0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE

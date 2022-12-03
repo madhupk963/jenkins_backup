@@ -1,0 +1,12 @@
+Started by user [8mha:////4CPNGGtldsJLs3jrwR60Vh4MEbVn1XxhdyhRUNuGrQ1xAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL93MSUjNLi0pSMxDwA13SCSsYAAAA=[0mMadhusudhan
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/job2
+[job2] $ /bin/sh -xe /tmp/jenkins10353895501986932152.sh
++ ls
+folder
++ mkdir -p folder
++ ls
+folder
++ pwd
+/var/lib/jenkins/workspace/job2
+Finished: SUCCESS

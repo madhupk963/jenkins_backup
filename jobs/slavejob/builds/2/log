@@ -1,0 +1,12 @@
+Started by user [8mha:////4CPNGGtldsJLs3jrwR60Vh4MEbVn1XxhdyhRUNuGrQ1xAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/dLi1CL93MSUjNLi0pSMxDwA13SCSsYAAAA=[0mMadhusudhan
+Running as SYSTEM
+Building remotely on [8mha:////4NPk9m+AAKhUCH5Wgd9gTlmO8if2UvM7Km9eOuWH8SPiAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6yfm5BaUlqUX6xTmJZan5eakAeKEaHccAAAA=[0mslaveone (slavedemo) in workspace /home/slaveone/workspace/slavejob
+[slavejob] $ /bin/sh -xe /tmp/jenkins111018443801787110.sh
++ git clone https://github.com/madhupk963/gitrepo1.git
+Cloning into 'gitrepo1'...
++ cd ./gitrepo1
++ ls
+myfile
+shellscripts
+tagdemo
+Finished: SUCCESS

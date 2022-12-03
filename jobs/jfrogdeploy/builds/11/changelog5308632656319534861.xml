@@ -1,0 +1,9 @@
+commit 1ae538e7b2c5e9754be63a51fd53f56761ad56c4
+tree d87fbf21fe9a910a7d8fedb0d5f571b2caf4ba2d
+parent 5e03163f1c7a7520096a3f54073978d5b4490c63
+author madhupk963 <118256000+madhupk963@users.noreply.github.com> 2022-12-02 13:28:02 +0530
+committer GitHub <noreply@github.com> 2022-12-02 13:28:02 +0530
+
+    Update Jenkinsjfrog
+
+:100644 100644 b3569ac7c1cf31cf145dea9b0e99f95df1b7184f df1a66cde4adc9e5931ed76fb6e623c608c22027 M	Jenkinsjfrog
